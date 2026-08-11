@@ -1,0 +1,25 @@
+{
+  "name": "manurandom-str-msg",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuelgames/manurandom-str-msg.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "author": "Manuel Alejandro <alejandro.lynk62@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manuelgames/manurandom-str-msg/issues"
+  },
+  "homepage": "https://github.com/Manuelgames/manurandom-str-msg#readme",
+  "bin": {
+    "manurandom-str-msg": "src/bin/global.js"
+  },
+  "preferGlobal": true
+}
